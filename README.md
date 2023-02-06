@@ -13,5 +13,5 @@ The indication of authorship is obligatory and must carry the following informat
 ```
 Original Author: Michael Kiselev @ XacretT
 Company: Minifacture.net, Ponics.tech
-Link: https://minifacture.net https://ponics.tech
+Link: [https://minifacture.net](https://minifacture.net) [https://ponics.tech](https://ponics.tech)
 ```

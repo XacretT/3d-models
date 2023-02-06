@@ -1,0 +1,42 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.22",
+    "newgId": true,
+    "c_para": {
+      "name": "LM281B+ Pro",
+      "package": "LM281B+ PRO",
+      "pre": "U?",
+      "BOM_Manufacturer": "Samsung",
+      "BOM_Manufacturer Part": "LM281B+ Pro",
+      "BOM_Supplier": "Samsung",
+      "BOM_Supplier Part": "SPMWH1228MD5WAT0VL",
+      "link": "https://www.samsung.com/led/lighting/mid-power-leds/2835-leds/lm281b-plus-pro/",
+      "Contributor": "XacretT minifacture.net ponics.tech",
+    },
+    "c_spiceCmd": null,
+    "puuid": "f19233363055457db4a7c59455a13a12",
+    "hasIdFlag": true,
+    "x": 400,
+    "y": 300
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~10~1000~1000~line~1~pixel~1~400~300",
+  "shape": [
+    "P~show~0~0~400~300~0~gge97~0^^400~300^^M 400 300 h -20~#880000^^1~378~303~0~+~end~~~#0000FF^^1~383~297~0~An~start~~~#0000FF^^0~383~300^^0~M 380 297 L 377 300 L 380 303",
+    "P~show~0~0~420~300~180~gge118~0^^420~300^^M 420 300 h 20~#880000^^1~442~303~0~-~start~~~#0000FF^^1~439~297~0~Cat~end~~~#0000FF^^0~437~300^^0~M 440 303 L 443 300 L 440 297",
+    "T~L~393~319~0~#0000FF~~4pt~~~~comment~LM281B+ PRO~1~start~gge184~0~pinpart",
+    "PL~400 290 400 310 420 300 400 290~#000000~1~0~none~gge196~0",
+    "PL~420 290 420 310~#000000~1~0~none~gge202~0",
+    "PL~405 284 412 277 409 277~#000000~1~0~none~gge208~0",
+    "PL~412 277 412 280~#000000~1~0~none~gge214~0",
+    "PL~418 278 418 281~#000000~1~0~none~gge220~0",
+    "PL~411 285 418 278 415 278~#000000~1~0~none~gge223~0"
+  ],
+  "BBox": {
+    "x": 370.4,
+    "y": 277,
+    "width": 75.9,
+    "height": 43.3
+  },
+  "colors": {}
+}

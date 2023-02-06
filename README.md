@@ -9,7 +9,11 @@ Use of the models is completely free for educational, commercial and non-commerc
 Please create an appropriate pull-request when making changes.
 
 The indication of authorship is obligatory and must carry the following information:
+>Original Author: Michael Kiselev @ XacretT
+>Company: Minifacture.net, Ponics.tech
+>Link: [https://minifacture.net](https://minifacture.net) [https://ponics.tech](https://ponics.tech)
 
+Here you can grab a Markdown template:
 ```
 Original Author: Michael Kiselev @ XacretT
 Company: Minifacture.net, Ponics.tech
